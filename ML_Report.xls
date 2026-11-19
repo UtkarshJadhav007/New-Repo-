@@ -1,0 +1,4 @@
+Model,Accuracy
+Decision Tree,85
+Random Forest,92
+Logistic Regression,88
