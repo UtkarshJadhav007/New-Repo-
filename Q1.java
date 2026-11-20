@@ -1,4 +1,4 @@
-
+//odd or even and divide by 4&5
 package com.exam;
 
 import java.util.Scanner;
