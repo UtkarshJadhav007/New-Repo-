@@ -1,4 +1,4 @@
-
+//Demonstrate an array of object 
 package com.exam;
 
 import java.util.Scanner;
